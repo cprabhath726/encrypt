@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: url(https://i.gifer.com/Nv2.gif) fixed center;
+  background-size: cover;
+}
+
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 5px solid #454545;
+  border-radius: 10px;
+  
+  background-image: url(https://www.vectorstock.com/royalty-free-vector/white-spider-web-on-black-background-doodle-vector-18035207">Vector image by VectorStock / fesleen); /* Replace 'path/to/your/image.jpg' with the path to your image */
+  background-size: cover; /* Cover the entire container with the background image */
+  background-position: center; /* Center the background image */
+}
+
+h1 {
+  text-align: center;
+  color:white;
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 10px;
+  background-color: #E1D9D1;
+  color:#03A062;
+  border: 3px solid #454545;
+  border-radius: 15px;
+}
+
+input[type="text"] {
+  width: 100%;
+  margin-bottom: 10px;
+  background-color: #E1D9D1;
+  color:#03A062
+  border: 3px solid #454545;
+  border-radius: 15px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  border-radius: 25px;
+  color: black;
+  background-color: #808080;
+  border: 2px solid #454545;
+}
+
+#output {
+  margin-top: 15px;
+  color:#FFFFFF;
+  font-size: 13px;
+}
+
+#changingText{
+  font-family:Cursive;
+}
+
+#inputText::placeholder{
+  color:#03A062;
+}
+
+#key::placeholder{
+  color:#03A062;
+}
+
